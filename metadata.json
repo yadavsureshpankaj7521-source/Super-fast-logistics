@@ -1,0 +1,6 @@
+{
+  "name": "Super Fast Logistics & Partner",
+  "description": "Maharashtra's leading on-demand logistics & driver partner network with tiered vehicle-wise savings and zero driver commission.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
